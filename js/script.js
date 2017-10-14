@@ -140,5 +140,4 @@ function aiturn(board, depth, player) {
         set(index, COMPUTER);
 
     return max;
-
 }
